@@ -1,7 +1,5 @@
-# Arrays
-
-This folder contains array-based Data Structures and Algorithms problems solved in Java.
-
 ## Problems Solved
 
-- Day 01
+1. Largest Element
+2. Smallest Element
+3. Sum Of Array
