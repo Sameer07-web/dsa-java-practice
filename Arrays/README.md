@@ -1,24 +1,23 @@
-## 📅 Placement Preparation Progress
+Arrays Progress: 12/15
 
-### Arrays
+Completed:
+✔ Largest Element
+✔ Smallest Element
+✔ Second Largest Element
+✔ Reverse Array
+✔ Sum Of Array
+✔ Count Even Odd
+✔ Check Sorted Array
+✔ Move Zeros To End
+✔ Best Time To Buy Sell Stock
+✔ Remove Duplicates Sorted Array
+✔ Majority Element
+✔ Leaders In Array
+✔ Two Sum
+✔ Maximum Subarray
+✔ Longest Subarray Sum K
 
-* [x] Largest Element
-* [x] Smallest Element
-* [x] Sum Of Array
-* [x] Reverse Array
-* [x] Count Even/Odd
-
-#### Next Targets
-
-* [ ] Second Largest Element
-* [ ] Check Sorted Array
-* [ ] Linear Search
-* [ ] Move Zeroes
-* [ ] Missing Number
-* [ ] Remove Duplicates
-* [ ] Left Rotate Array
-* [ ] Right Rotate Array
-* [ ] Maximum Consecutive Ones
-* [ ] Two Sum
-* [ ] Best Time To Buy And Sell Stock
-* [ ] Kadane's Algorithm
+Remaining:
+• Product Of Array Except Self
+• Trapping Rain Water
+• Set Matrix Zeroes
