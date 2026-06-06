@@ -1,6 +1,6 @@
 # Strings DSA Tracker
 
-Progress: **5 / 30 Completed**
+Progress: **10 / 30 Completed**
 
 ---
 
@@ -18,13 +18,13 @@ Progress: **5 / 30 Completed**
 
 ## Phase 2: Hashing & Frequency Counting (5/5)
 
-* [ ] 06 Ransom Note (LC 383)
-* [ ] 07 Find the Difference (LC 389)
-* [ ] 08 Isomorphic Strings (LC 205)
-* [ ] 09 Word Pattern (LC 290)
-* [ ] 10 Group Anagrams (LC 49)
+* [x] 06 Ransom Note (LC 383)
+* [x] 07 Find the Difference (LC 389)
+* [x] 08 Isomorphic Strings (LC 205)
+* [x] 09 Word Pattern (LC 290)
+* [x] 10 Group Anagrams (LC 49)
 
-**Status:** ⬜ Not Started
+**Status:** ✅ Completed
 
 ---
 
@@ -79,12 +79,12 @@ Progress: **5 / 30 Completed**
 ## Progress Summary
 
 ```text
-Strings Progress: 5 / 30
+Strings Progress: 10 / 30
 
-█████░░░░░░░░░░░░░░░░░░░░░ 16.7%
+██████████░░░░░░░░░░░░░░░░ 33.3%
 
 Phase 1: ✅ Completed
-Phase 2: ⬜ Not Started
+Phase 2: ✅ Completed
 Phase 3: ⬜ Not Started
 Phase 4: ⬜ Not Started
 Phase 5: ⬜ Not Started
