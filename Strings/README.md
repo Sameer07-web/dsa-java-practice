@@ -1,6 +1,6 @@
 # Strings DSA Tracker
 
-Progress: **10 / 30 Completed**
+Progress: **15 / 30 Completed**
 
 ---
 
@@ -30,13 +30,13 @@ Progress: **10 / 30 Completed**
 
 ## Phase 3: String Manipulation (5/5)
 
-* [ ] 11 Longest Common Prefix (LC 14)
-* [ ] 12 Reverse Words in a String (LC 151)
-* [ ] 13 Length of Last Word (LC 58)
-* [ ] 14 String Compression (LC 443)
-* [ ] 15 Merge Strings Alternately (LC 1768)
+* [x] 11 Longest Common Prefix (LC 14)
+* [x] 12 Reverse Words in a String (LC 151)
+* [x] 13 Length of Last Word (LC 58)
+* [x] 14 String Compression (LC 443)
+* [x] 15 Merge Strings Alternately (LC 1768)
 
-**Status:** ⬜ Not Started
+**Status:** ✅ Completed
 
 ---
 
@@ -79,13 +79,13 @@ Progress: **10 / 30 Completed**
 ## Progress Summary
 
 ```text
-Strings Progress: 10 / 30
+Strings Progress: 15 / 30
 
-██████████░░░░░░░░░░░░░░░░ 33.3%
+███████████████░░░░░░░░░░░ 50%
 
 Phase 1: ✅ Completed
 Phase 2: ✅ Completed
-Phase 3: ⬜ Not Started
+Phase 3: ✅ Completed
 Phase 4: ⬜ Not Started
 Phase 5: ⬜ Not Started
 Phase 6: ⬜ Not Started
