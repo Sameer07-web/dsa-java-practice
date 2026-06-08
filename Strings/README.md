@@ -1,6 +1,6 @@
 # Strings DSA Tracker
 
-Progress: **15 / 30 Completed**
+Progress: **20 / 30 Completed**
 
 ---
 
@@ -42,13 +42,13 @@ Progress: **15 / 30 Completed**
 
 ## Phase 4: Sliding Window (5/5)
 
-* [ ] 16 Longest Substring Without Repeating Characters (LC 3)
-* [ ] 17 Find All Anagrams in a String (LC 438)
-* [ ] 18 Permutation in String (LC 567)
-* [ ] 19 Maximum Number of Vowels in a Substring (LC 1456)
-* [ ] 20 Minimum Window Substring (LC 76)
+* [x] 16 Longest Substring Without Repeating Characters (LC 3)
+* [x] 17 Find All Anagrams in a String (LC 438)
+* [x] 18 Permutation in String (LC 567)
+* [x] 19 Maximum Number of Vowels in a Substring (LC 1456)
+* [x] 20 Minimum Window Substring (LC 76)
 
-**Status:** ⬜ Not Started
+**Status:** ✅ Completed
 
 ---
 
@@ -79,14 +79,14 @@ Progress: **15 / 30 Completed**
 ## Progress Summary
 
 ```text
-Strings Progress: 15 / 30
+Strings Progress: 20 / 30
 
-███████████████░░░░░░░░░░░ 50%
+████████████████████░░░░░░ 66.7%
 
 Phase 1: ✅ Completed
 Phase 2: ✅ Completed
 Phase 3: ✅ Completed
-Phase 4: ⬜ Not Started
+Phase 4: ✅ Completed
 Phase 5: ⬜ Not Started
 Phase 6: ⬜ Not Started
 ```
