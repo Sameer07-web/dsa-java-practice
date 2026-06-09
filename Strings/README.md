@@ -1,6 +1,6 @@
 # Strings DSA Tracker
 
-Progress: **20 / 30 Completed**
+Progress: **25 / 30 Completed**
 
 ---
 
@@ -54,13 +54,13 @@ Progress: **20 / 30 Completed**
 
 ## Phase 5: Advanced String Patterns (5/5)
 
-* [ ] 21 Valid Palindrome II (LC 680)
-* [ ] 22 Longest Palindromic Substring (LC 5)
-* [ ] 23 Palindromic Substrings (LC 647)
-* [ ] 24 Zigzag Conversion (LC 6)
-* [ ] 25 Count and Say (LC 38)
+* [x] 21 Valid Palindrome II (LC 680)
+* [x] 22 Longest Palindromic Substring (LC 5)
+* [x] 23 Palindromic Substrings (LC 647)
+* [x] 24 Zigzag Conversion (LC 6)
+* [x] 25 Count and Say (LC 38)
 
-**Status:** ⬜ Not Started
+**Status:** ✅ Completed
 
 ---
 
@@ -79,14 +79,13 @@ Progress: **20 / 30 Completed**
 ## Progress Summary
 
 ```text
-Strings Progress: 20 / 30
+Strings Progress: 25 / 30
 
-████████████████████░░░░░░ 66.7%
+█████████████████████████░░░░░ 83.3%
 
 Phase 1: ✅ Completed
 Phase 2: ✅ Completed
 Phase 3: ✅ Completed
 Phase 4: ✅ Completed
-Phase 5: ⬜ Not Started
+Phase 5: ✅ Completed
 Phase 6: ⬜ Not Started
-```
