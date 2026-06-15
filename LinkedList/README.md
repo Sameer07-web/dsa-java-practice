@@ -1,6 +1,6 @@
 # Linked List DSA Tracker
 
-Progress: **20 / 30 Completed**
+Progress: **25 / 30 Completed**
 
 ---
 
@@ -52,15 +52,15 @@ Progress: **20 / 30 Completed**
 
 ---
 
-## Phase 5: Advanced Linked List (0/5)
+## Phase 5: Advanced Linked List (5/5)
 
-* [ ] 21 Copy List with Random Pointer (LC 138)
-* [ ] 22 Flatten a Multilevel Doubly Linked List (LC 430)
-* [ ] 23 Insert into a Sorted Circular Linked List (LC 708)
-* [ ] 24 Design Linked List (LC 707)
-* [ ] 25 Design Browser History (LC 1472)
+* [x] 21 Copy List with Random Pointer (LC 138)
+* [x] 22 Flatten a Multilevel Doubly Linked List (LC 430)
+* [x] 23 Insert into a Sorted Circular Linked List (LC 708)
+* [x] 24 Design Linked List (LC 707)
+* [x] 25 Design Browser History (LC 1472)
 
-**Status:** ⬜ Not Started
+**Status:** ✅ Completed
 
 ---
 
@@ -79,15 +79,15 @@ Progress: **20 / 30 Completed**
 ## Progress Summary
 
 ```text
-Linked List Progress: 20 / 30
+Linked List Progress: 25 / 30
 
-████████████████████░░░░░░░░░ 66.7%
+█████████████████████████░░░░░ 83.3%
 
 Phase 1: ✅ Completed
 Phase 2: ✅ Completed
 Phase 3: ✅ Completed
 Phase 4: ✅ Completed
-Phase 5: ⬜ Not Started
+Phase 5: ✅ Completed
 Phase 6: ⬜ Not Started
 ```
 
@@ -127,6 +127,14 @@ Phase 6: ⬜ Not Started
 * Intersection of Two Linked Lists
 * Partition List
 
+### Advanced Linked Lists
+
+* Copy List with Random Pointer
+* Flatten a Multilevel Doubly Linked List
+* Insert into a Sorted Circular Linked List
+* Design Linked List
+* Design Browser History
+
 ---
 
 ## Repository Structure
@@ -159,4 +167,10 @@ Linked-List/
 ├── 18_SortList.java
 ├── 19_IntersectionOfTwoLinkedLists.java
 ├── 20_PartitionList.java
+│
+├── 21_CopyListWithRandomPointer.java
+├── 22_FlattenMultilevelDoublyLinkedList.java
+├── 23_InsertIntoSortedCircularLinkedList.java
+├── 24_DesignLinkedList.java
+├── 25_DesignBrowserHistory.java
 ```
