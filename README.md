@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Problems-50%2B-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Problems-105%2B-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Interview%20Preparation-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
 </p>
@@ -40,18 +40,18 @@ Preparing for **Software Engineer / Backend Developer roles** through:
 
 ## 📚 Topics Covered
 
-| Topic               | Progress       |
-| ------------------- | -------------- |
-| Arrays              | ✅ Completed    |
-| Strings             | ✅ Completed    |
-| Linked List         | 🔄 In Progress |
-| Stack               | ⏳ Planned      |
-| Queue               | ⏳ Planned      |
-| HashMap             | ⏳ Planned      |
-| Binary Search       | ⏳ Planned      |
-| Trees               | ⏳ Planned      |
-| Graphs              | ⏳ Planned      |
-| Dynamic Programming | ⏳ Planned      |
+| Topic               | Progress    |
+| ------------------- | ----------- |
+| Arrays              | ✅ Completed |
+| Strings             | ✅ Completed |
+| Linked List         | ✅ Completed |
+| Stack               | ✅ Completed |
+| Queue               | ⏳ Planned   |
+| HashMap             | ⏳ Planned   |
+| Binary Search       | ⏳ Planned   |
+| Trees               | ⏳ Planned   |
+| Graphs              | ⏳ Planned   |
+| Dynamic Programming | ⏳ Planned   |
 
 ---
 
@@ -60,9 +60,10 @@ Preparing for **Software Engineer / Backend Developer roles** through:
 ```text
 Arrays        : 30 / 30 ✅
 Strings       : 30 / 30 ✅
-Linked List   : 20 / 30 🔄
+Linked List   : 30 / 30 ✅
+Stack         : 15 / 15 ✅
 
-Overall Progress : 80+ Problems Solved
+Overall Progress : 105+ Problems Solved
 ```
 
 ---
@@ -107,10 +108,12 @@ Each problem contains:
 * Arrays
 * Strings
 * Linked Lists
+* Stack
 * Two Pointers
 * Fast & Slow Pointers
 * Sliding Window
 * Hashing
+* Monotonic Stack
 * Merge Sort
 * Recursion
 * Heap
@@ -124,10 +127,10 @@ Each problem contains:
 
 This repository serves as:
 
-* Interview preparation tracker
-* Problem-solving journal
-* Java coding reference
-* Placement preparation roadmap
+* Interview Preparation Tracker
+* Problem-Solving Journal
+* Java Coding Reference
+* Placement Preparation Roadmap
 
 ---
 
