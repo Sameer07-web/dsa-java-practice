@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Problems-105%2B-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Problems-120%2B-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Interview%20Preparation-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
 </p>
@@ -40,18 +40,18 @@ Preparing for **Software Engineer / Backend Developer roles** through:
 
 ## 📚 Topics Covered
 
-| Topic               | Progress    |
-| ------------------- | ----------- |
-| Arrays              | ✅ Completed |
-| Strings             | ✅ Completed |
-| Linked List         | ✅ Completed |
-| Stack               | ✅ Completed |
-| Queue               | ⏳ Planned   |
-| HashMap             | ⏳ Planned   |
-| Binary Search       | ⏳ Planned   |
-| Trees               | ⏳ Planned   |
-| Graphs              | ⏳ Planned   |
-| Dynamic Programming | ⏳ Planned   |
+| Topic               | Progress       |
+| ------------------- | -------------- |
+| Arrays              | ✅ Completed    |
+| Strings             | ✅ Completed    |
+| Linked List         | ✅ Completed    |
+| Stack               | ✅ Completed    |
+| Queue               | ✅ Completed    |
+| HashMap             | 🔄 In Progress |
+| Binary Search       | ⏳ Planned      |
+| Trees               | ⏳ Planned      |
+| Graphs              | ⏳ Planned      |
+| Dynamic Programming | ⏳ Planned      |
 
 ---
 
@@ -62,8 +62,9 @@ Arrays        : 30 / 30 ✅
 Strings       : 30 / 30 ✅
 Linked List   : 30 / 30 ✅
 Stack         : 15 / 15 ✅
+Queue         : 15 / 15 ✅
 
-Overall Progress : 105+ Problems Solved
+Overall Progress : 120+ Problems Solved 🚀
 ```
 
 ---
@@ -109,11 +110,13 @@ Each problem contains:
 * Strings
 * Linked Lists
 * Stack
+* Queue
 * Two Pointers
 * Fast & Slow Pointers
 * Sliding Window
 * Hashing
 * Monotonic Stack
+* Monotonic Queue
 * Merge Sort
 * Recursion
 * Heap
@@ -134,6 +137,22 @@ This repository serves as:
 
 ---
 
+## 🏅 Milestones Achieved
+
+✅ Completed Arrays Roadmap (30/30)
+
+✅ Completed Strings Roadmap (30/30)
+
+✅ Completed Linked List Roadmap (30/30)
+
+✅ Completed Stack Roadmap (15/15)
+
+✅ Completed Queue Roadmap (15/15)
+
+🚀 Solved 120+ DSA Problems
+
+---
+
 ## 👨‍💻 Author
 
 **Mohammad Sameer**
@@ -151,4 +170,4 @@ This repository serves as:
 
 ---
 
-⭐ Consistency beats intensity. One solved problem every day compounds into strong interview performance.
+⭐ **Consistency beats intensity. One solved problem every day compounds into strong interview performance.**
