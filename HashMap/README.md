@@ -1,6 +1,6 @@
 # HashMap DSA Tracker
 
-Progress: **5 / 20 Completed**
+Progress: **10 / 20 Completed**
 
 ---
 
@@ -16,15 +16,15 @@ Progress: **5 / 20 Completed**
 
 ---
 
-## Phase 2: Frequency Counting (0/5)
+## Phase 2: Frequency Counting (5/5)
 
-- [ ] 06 Top K Frequent Elements (LC 347)
-- [ ] 07 Group Anagrams (LC 49)
-- [ ] 08 Majority Element (LC 169)
-- [ ] 09 Find All Duplicates in an Array (LC 442)
-- [ ] 10 Longest Consecutive Sequence (LC 128)
+- [x] 06 Top K Frequent Elements (LC 347)
+- [x] 07 Group Anagrams (LC 49)
+- [x] 08 Majority Element (LC 169)
+- [x] 09 Find All Duplicates in an Array (LC 442)
+- [x] 10 Longest Consecutive Sequence (LC 128)
 
-**Status:** ⬜ Not Started
+**Status:** ✅ Completed
 
 ---
 
@@ -55,12 +55,12 @@ Progress: **5 / 20 Completed**
 # Progress Summary
 
 ```text
-HashMap Progress: 5 / 20
+HashMap Progress: 10 / 20
 
-███████░░░░░░░░░░░░░░░░░░░░░ 25%
+███████████████░░░░░░░░░░░░░ 50%
 
 Phase 1: ✅ Completed
-Phase 2: ⬜ Not Started
+Phase 2: ✅ Completed
 Phase 3: ⬜ Not Started
 Phase 4: ⬜ Not Started
 ```
@@ -77,10 +77,6 @@ Phase 4: ⬜ Not Started
 - Intersection of Two Arrays
 - Happy Number
 
----
-
-# Upcoming Patterns
-
 ## Frequency Counting
 
 - Top K Frequent Elements
@@ -88,6 +84,10 @@ Phase 4: ⬜ Not Started
 - Majority Element
 - Find All Duplicates in an Array
 - Longest Consecutive Sequence
+
+---
+
+# Upcoming Patterns
 
 ## Prefix Sum + HashMap
 
@@ -145,13 +145,15 @@ HashMap/
 
 ✅ Completed Phase 1 - HashMap Fundamentals
 
+✅ Completed Phase 2 - Frequency Counting
+
 ✅ Mastered HashMap Basics
 
 ✅ Mastered HashSet Operations
 
-✅ Mastered Frequency Counting Basics
+✅ Mastered Frequency Counting
 
-✅ Learned Cycle Detection using HashSet
+✅ Mastered Sequence Detection using HashSet
 
 ---
 
@@ -165,19 +167,27 @@ HashMap/
 ### Frequency Counting
 
 - Valid Anagram
+- Top K Frequent Elements
+- Group Anagrams
 
 ### Set Operations
 
 - Intersection of Two Arrays
+- Longest Consecutive Sequence
 
 ### HashSet + Cycle Detection
 
 - Happy Number
 
+### Space Optimized Algorithms
+
+- Majority Element
+- Find All Duplicates in an Array
+
 ---
 
 # Next Problem
 
-➡️ 06 Top K Frequent Elements (LC 347)
+➡️ 11 Subarray Sum Equals K (LC 560)
 
 Status: ⬜ Not Started
