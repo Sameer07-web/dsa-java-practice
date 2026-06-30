@@ -1,6 +1,6 @@
 # HashMap DSA Tracker
 
-Progress: **10 / 20 Completed**
+Progress: **15 / 20 Completed**
 
 ---
 
@@ -28,15 +28,15 @@ Progress: **10 / 20 Completed**
 
 ---
 
-## Phase 3: Prefix Sum + HashMap (0/5)
+## Phase 3: Prefix Sum + HashMap (5/5)
 
-- [ ] 11 Subarray Sum Equals K (LC 560)
-- [ ] 12 Continuous Subarray Sum (LC 523)
-- [ ] 13 Binary Subarrays With Sum (LC 930)
-- [ ] 14 Contiguous Array (LC 525)
-- [ ] 15 Maximum Size Subarray Sum Equals K (LC 325)
+- [x] 11 Subarray Sum Equals K (LC 560)
+- [x] 12 Continuous Subarray Sum (LC 523)
+- [x] 13 Binary Subarrays With Sum (LC 930)
+- [x] 14 Contiguous Array (LC 525)
+- [x] 15 Maximum Size Subarray Sum Equals K (LC 325)
 
-**Status:** ⬜ Not Started
+**Status:** ✅ Completed
 
 ---
 
@@ -55,13 +55,13 @@ Progress: **10 / 20 Completed**
 # Progress Summary
 
 ```text
-HashMap Progress: 10 / 20
+HashMap Progress: 15 / 20
 
-███████████████░░░░░░░░░░░░░ 50%
+██████████████████████░░░░░░░ 75%
 
 Phase 1: ✅ Completed
 Phase 2: ✅ Completed
-Phase 3: ⬜ Not Started
+Phase 3: ✅ Completed
 Phase 4: ⬜ Not Started
 ```
 
@@ -85,10 +85,6 @@ Phase 4: ⬜ Not Started
 - Find All Duplicates in an Array
 - Longest Consecutive Sequence
 
----
-
-# Upcoming Patterns
-
 ## Prefix Sum + HashMap
 
 - Subarray Sum Equals K
@@ -96,6 +92,10 @@ Phase 4: ⬜ Not Started
 - Binary Subarrays With Sum
 - Contiguous Array
 - Maximum Size Subarray Sum Equals K
+
+---
+
+# Upcoming Patterns
 
 ## Advanced Hashing
 
@@ -147,13 +147,15 @@ HashMap/
 
 ✅ Completed Phase 2 - Frequency Counting
 
-✅ Mastered HashMap Basics
+✅ Completed Phase 3 - Prefix Sum + HashMap
 
-✅ Mastered HashSet Operations
+✅ Mastered HashMap Basics
 
 ✅ Mastered Frequency Counting
 
-✅ Mastered Sequence Detection using HashSet
+✅ Mastered Prefix Sum Techniques
+
+✅ Mastered Longest Subarray Patterns
 
 ---
 
@@ -184,10 +186,33 @@ HashMap/
 - Majority Element
 - Find All Duplicates in an Array
 
+### Prefix Sum + HashMap
+
+- Subarray Sum Equals K
+- Continuous Subarray Sum
+- Binary Subarrays With Sum
+- Contiguous Array
+- Maximum Size Subarray Sum Equals K
+
+---
+
+# Final Milestone
+
+```text
+Arrays       : 30 / 30 ✅
+Strings      : 30 / 30 ✅
+Linked List  : 30 / 30 ✅
+Stack        : 15 / 15 ✅
+Queue        : 15 / 15 ✅
+HashMap      : 15 / 20 🔄
+
+Total Solved : 135 Problems 🚀
+```
+
 ---
 
 # Next Problem
 
-➡️ 11 Subarray Sum Equals K (LC 560)
+➡️ 16 Isomorphic Strings (LC 205)
 
 Status: ⬜ Not Started
