@@ -1,6 +1,6 @@
 # HashMap DSA Tracker
 
-Progress: **15 / 20 Completed**
+Progress: **20 / 20 Completed**
 
 ---
 
@@ -40,29 +40,29 @@ Progress: **15 / 20 Completed**
 
 ---
 
-## Phase 4: Advanced Hashing (0/5)
+## Phase 4: Advanced Hashing (5/5)
 
-- [ ] 16 Isomorphic Strings (LC 205)
-- [ ] 17 Word Pattern (LC 290)
-- [ ] 18 LRU Cache (LC 146)
-- [ ] 19 Insert Delete GetRandom O(1) (LC 380)
-- [ ] 20 Find Duplicate File in System (LC 609)
+- [x] 16 Isomorphic Strings (LC 205)
+- [x] 17 Word Pattern (LC 290)
+- [x] 18 LRU Cache (LC 146)
+- [x] 19 Insert Delete GetRandom O(1) (LC 380)
+- [x] 20 Find Duplicate File in System (LC 609)
 
-**Status:** ⬜ Not Started
+**Status:** ✅ Completed
 
 ---
 
 # Progress Summary
 
 ```text
-HashMap Progress: 15 / 20
+HashMap Progress: 20 / 20
 
-██████████████████████░░░░░░░ 75%
+██████████████████████████████ 100%
 
 Phase 1: ✅ Completed
 Phase 2: ✅ Completed
 Phase 3: ✅ Completed
-Phase 4: ⬜ Not Started
+Phase 4: ✅ Completed
 ```
 
 ---
@@ -92,10 +92,6 @@ Phase 4: ⬜ Not Started
 - Binary Subarrays With Sum
 - Contiguous Array
 - Maximum Size Subarray Sum Equals K
-
----
-
-# Upcoming Patterns
 
 ## Advanced Hashing
 
@@ -149,13 +145,21 @@ HashMap/
 
 ✅ Completed Phase 3 - Prefix Sum + HashMap
 
-✅ Mastered HashMap Basics
+✅ Completed Phase 4 - Advanced Hashing
+
+✅ Mastered HashMap Operations
+
+✅ Mastered HashSet Operations
 
 ✅ Mastered Frequency Counting
 
-✅ Mastered Prefix Sum Techniques
+✅ Mastered Prefix Sum + HashMap
 
-✅ Mastered Longest Subarray Patterns
+✅ Mastered Character Mapping
+
+✅ Mastered Cache Design
+
+✅ Mastered O(1) Data Structure Design
 
 ---
 
@@ -194,9 +198,25 @@ HashMap/
 - Contiguous Array
 - Maximum Size Subarray Sum Equals K
 
+### Character Mapping
+
+- Isomorphic Strings
+- Word Pattern
+
+### Data Structure Design
+
+- LRU Cache
+- Insert Delete GetRandom O(1)
+
+### String Parsing + Grouping
+
+- Find Duplicate File in System
+
 ---
 
 # Final Milestone
+
+🎉 HashMap Roadmap Completed Successfully (20/20)
 
 ```text
 Arrays       : 30 / 30 ✅
@@ -204,15 +224,15 @@ Strings      : 30 / 30 ✅
 Linked List  : 30 / 30 ✅
 Stack        : 15 / 15 ✅
 Queue        : 15 / 15 ✅
-HashMap      : 15 / 20 🔄
+HashMap      : 20 / 20 ✅
 
-Total Solved : 135 Problems 🚀
+Total Solved : 140 Problems 🚀
 ```
 
 ---
 
-# Next Problem
+# Next Topic
 
-➡️ 16 Isomorphic Strings (LC 205)
+➡️ Binary Search DSA Roadmap
 
 Status: ⬜ Not Started
