@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Problems-120%2B-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Problems-140%2B-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Interview%20Preparation-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
 </p>
@@ -40,31 +40,33 @@ Preparing for **Software Engineer / Backend Developer roles** through:
 
 ## 📚 Topics Covered
 
-| Topic               | Progress       |
+| Topic | Progress |
 | ------------------- | -------------- |
-| Arrays              | ✅ Completed    |
-| Strings             | ✅ Completed    |
-| Linked List         | ✅ Completed    |
-| Stack               | ✅ Completed    |
-| Queue               | ✅ Completed    |
-| HashMap             | 🔄 In Progress |
-| Binary Search       | ⏳ Planned      |
-| Trees               | ⏳ Planned      |
-| Graphs              | ⏳ Planned      |
-| Dynamic Programming | ⏳ Planned      |
+| Arrays | ✅ Completed |
+| Strings | ✅ Completed |
+| Linked List | ✅ Completed |
+| Stack | ✅ Completed |
+| Queue | ✅ Completed |
+| HashMap | ✅ Completed |
+| Binary Search | 🔄 In Progress |
+| Trees | ⏳ Planned |
+| Graphs | ⏳ Planned |
+| Dynamic Programming | ⏳ Planned |
 
 ---
 
 ## 🏆 Progress Tracker
 
 ```text
-Arrays        : 30 / 30 ✅
-Strings       : 30 / 30 ✅
-Linked List   : 30 / 30 ✅
-Stack         : 15 / 15 ✅
-Queue         : 15 / 15 ✅
+Arrays         : 30 / 30 ✅
+Strings        : 30 / 30 ✅
+Linked List    : 30 / 30 ✅
+Stack          : 15 / 15 ✅
+Queue          : 15 / 15 ✅
+HashMap        : 20 / 20 ✅
+Binary Search  : 0 / 20 🔄
 
-Overall Progress : 120+ Problems Solved 🚀
+Overall Progress : 140+ Problems Solved 🚀
 ```
 
 ---
@@ -80,6 +82,7 @@ dsa-java-practice/
 ├── Stack/
 ├── Queue/
 ├── HashMap/
+├── BinarySearch/
 ├── Trees/
 ├── Searching/
 ├── Recursion/
@@ -111,15 +114,18 @@ Each problem contains:
 * Linked Lists
 * Stack
 * Queue
+* HashMap
+* HashSet
 * Two Pointers
 * Fast & Slow Pointers
 * Sliding Window
-* Hashing
+* Prefix Sum
+* Character Mapping
 * Monotonic Stack
 * Monotonic Queue
+* Heap (Priority Queue)
 * Merge Sort
 * Recursion
-* Heap
 * Binary Search
 * Graph Algorithms
 * Dynamic Programming
@@ -149,7 +155,9 @@ This repository serves as:
 
 ✅ Completed Queue Roadmap (15/15)
 
-🚀 Solved 120+ DSA Problems
+✅ Completed HashMap Roadmap (20/20)
+
+🚀 Solved **140+ DSA Problems**
 
 ---
 
