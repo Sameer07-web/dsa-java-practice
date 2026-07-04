@@ -1,6 +1,6 @@
 # Binary Search DSA Tracker
 
-Progress: **5 / 20 Completed**
+Progress: **10 / 20 Completed**
 
 ---
 
@@ -16,15 +16,15 @@ Progress: **5 / 20 Completed**
 
 ---
 
-## Phase 2: Search in Sorted Arrays (0/5)
+## Phase 2: Search in Sorted Arrays (5/5)
 
-- [ ] 06 First Bad Version (LC 278)
-- [ ] 07 Search in Rotated Sorted Array (LC 33)
-- [ ] 08 Find Minimum in Rotated Sorted Array (LC 153)
-- [ ] 09 Search a 2D Matrix (LC 74)
-- [ ] 10 Peak Index in a Mountain Array (LC 852)
+- [x] 06 First Bad Version (LC 278)
+- [x] 07 Search in Rotated Sorted Array (LC 33)
+- [x] 08 Find Minimum in Rotated Sorted Array (LC 153)
+- [x] 09 Search a 2D Matrix (LC 74)
+- [x] 10 Peak Index in a Mountain Array (LC 852)
 
-**Status:** ⬜ Not Started
+**Status:** ✅ Completed
 
 ---
 
@@ -55,12 +55,12 @@ Progress: **5 / 20 Completed**
 # Progress Summary
 
 ```text
-Binary Search Progress: 5 / 20
+Binary Search Progress: 10 / 20
 
-███████▌░░░░░░░░░░░░░░░░░░░ 25%
+███████████████░░░░░░░░░░░░░ 50%
 
 Phase 1: ✅ Completed
-Phase 2: ⬜ Not Started
+Phase 2: ✅ Completed
 Phase 3: ⬜ Not Started
 Phase 4: ⬜ Not Started
 ```
@@ -77,10 +77,6 @@ Phase 4: ⬜ Not Started
 - Valid Perfect Square
 - Sqrt(x)
 
----
-
-# Upcoming Patterns
-
 ## Search in Sorted Arrays
 
 - First Bad Version
@@ -88,6 +84,10 @@ Phase 4: ⬜ Not Started
 - Find Minimum in Rotated Sorted Array
 - Search a 2D Matrix
 - Peak Index in a Mountain Array
+
+---
+
+# Upcoming Patterns
 
 ## Binary Search on Answer
 
@@ -145,9 +145,17 @@ BinarySearch/
 
 ✅ Completed Phase 1 - Binary Search Fundamentals
 
+✅ Completed Phase 2 - Search in Sorted Arrays
+
 ✅ Mastered Classic Binary Search
 
 ✅ Mastered Binary Search on Numbers
+
+✅ Mastered Rotated Sorted Array Problems
+
+✅ Mastered 2D Matrix Binary Search
+
+✅ Mastered Peak Finding Pattern
 
 ---
 
@@ -164,11 +172,25 @@ BinarySearch/
 - Valid Perfect Square
 - Sqrt(x)
 
+### Rotated Sorted Arrays
+
+- First Bad Version
+- Search in Rotated Sorted Array
+- Find Minimum in Rotated Sorted Array
+
+### Matrix Binary Search
+
+- Search a 2D Matrix
+
+### Peak Finding
+
+- Peak Index in a Mountain Array
+
 ---
 
 # Current Milestone
 
-🎉 Phase 1 Completed Successfully (5/20)
+🎉 Phase 2 Completed Successfully (10/20)
 
 ```text
 Arrays         : 30 / 30 ✅
@@ -177,19 +199,23 @@ Linked List    : 30 / 30 ✅
 Stack          : 15 / 15 ✅
 Queue          : 15 / 15 ✅
 HashMap        : 20 / 20 ✅
-Binary Search  : 5 / 20 ✅
+Binary Search  : 10 / 20 🔄
 
-Total Solved   : 145 Problems 🚀
+Total Solved   : 150 Problems 🚀
 ```
 
 ---
 
-# Next Topic
+# Next Phase
 
-➡️ Phase 2: Search in Sorted Arrays
+➡️ Phase 3: Binary Search on Answer
 
-Next Problem:
+### Upcoming Problems
 
-- [ ] 06 First Bad Version (LC 278)
+- [ ] 11 Koko Eating Bananas (LC 875)
+- [ ] 12 Capacity To Ship Packages Within D Days (LC 1011)
+- [ ] 13 Minimum Days to Make m Bouquets (LC 1482)
+- [ ] 14 Split Array Largest Sum (LC 410)
+- [ ] 15 Magnetic Force Between Two Balls (LC 1552)
 
-Status: ⬜ Not Started
+**Status:** ⬜ Not Started
