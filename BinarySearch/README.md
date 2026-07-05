@@ -1,6 +1,6 @@
 # Binary Search DSA Tracker
 
-Progress: **10 / 20 Completed**
+Progress: **15 / 20 Completed**
 
 ---
 
@@ -28,15 +28,15 @@ Progress: **10 / 20 Completed**
 
 ---
 
-## Phase 3: Binary Search on Answer (0/5)
+## Phase 3: Binary Search on Answer (5/5)
 
-- [ ] 11 Koko Eating Bananas (LC 875)
-- [ ] 12 Capacity To Ship Packages Within D Days (LC 1011)
-- [ ] 13 Minimum Days to Make m Bouquets (LC 1482)
-- [ ] 14 Split Array Largest Sum (LC 410)
-- [ ] 15 Magnetic Force Between Two Balls (LC 1552)
+- [x] 11 Koko Eating Bananas (LC 875)
+- [x] 12 Capacity To Ship Packages Within D Days (LC 1011)
+- [x] 13 Minimum Days to Make m Bouquets (LC 1482)
+- [x] 14 Split Array Largest Sum (LC 410)
+- [x] 15 Magnetic Force Between Two Balls (LC 1552)
 
-**Status:** ⬜ Not Started
+**Status:** ✅ Completed
 
 ---
 
@@ -55,13 +55,13 @@ Progress: **10 / 20 Completed**
 # Progress Summary
 
 ```text
-Binary Search Progress: 10 / 20
+Binary Search Progress: 15 / 20
 
-███████████████░░░░░░░░░░░░░ 50%
+██████████████████████▌░░░░░░ 75%
 
 Phase 1: ✅ Completed
 Phase 2: ✅ Completed
-Phase 3: ⬜ Not Started
+Phase 3: ✅ Completed
 Phase 4: ⬜ Not Started
 ```
 
@@ -85,10 +85,6 @@ Phase 4: ⬜ Not Started
 - Search a 2D Matrix
 - Peak Index in a Mountain Array
 
----
-
-# Upcoming Patterns
-
 ## Binary Search on Answer
 
 - Koko Eating Bananas
@@ -96,6 +92,10 @@ Phase 4: ⬜ Not Started
 - Minimum Days to Make m Bouquets
 - Split Array Largest Sum
 - Magnetic Force Between Two Balls
+
+---
+
+# Upcoming Patterns
 
 ## Advanced Binary Search
 
@@ -147,6 +147,8 @@ BinarySearch/
 
 ✅ Completed Phase 2 - Search in Sorted Arrays
 
+✅ Completed Phase 3 - Binary Search on Answer
+
 ✅ Mastered Classic Binary Search
 
 ✅ Mastered Binary Search on Numbers
@@ -156,6 +158,10 @@ BinarySearch/
 ✅ Mastered 2D Matrix Binary Search
 
 ✅ Mastered Peak Finding Pattern
+
+✅ Mastered Binary Search on Answer
+
+✅ Solved Optimization Problems Using Binary Search
 
 ---
 
@@ -186,36 +192,44 @@ BinarySearch/
 
 - Peak Index in a Mountain Array
 
+### Binary Search on Answer
+
+- Koko Eating Bananas
+- Capacity To Ship Packages Within D Days
+- Minimum Days to Make m Bouquets
+- Split Array Largest Sum
+- Magnetic Force Between Two Balls
+
 ---
 
 # Current Milestone
 
-🎉 Phase 2 Completed Successfully (10/20)
+🎉 Phase 3 Completed Successfully (15/20)
 
 ```text
-Arrays         : 30 / 30 ✅
-Strings        : 30 / 30 ✅
-Linked List    : 30 / 30 ✅
-Stack          : 15 / 15 ✅
-Queue          : 15 / 15 ✅
-HashMap        : 20 / 20 ✅
-Binary Search  : 10 / 20 🔄
+Arrays          : 30 / 30 ✅
+Strings         : 30 / 30 ✅
+Linked List     : 30 / 30 ✅
+Stack           : 15 / 15 ✅
+Queue           : 15 / 15 ✅
+HashMap         : 20 / 20 ✅
+Binary Search   : 15 / 20 🔄
 
-Total Solved   : 150 Problems 🚀
+Total Solved    : 155 Problems 🚀
 ```
 
 ---
 
 # Next Phase
 
-➡️ Phase 3: Binary Search on Answer
+➡️ **Phase 4: Advanced Binary Search**
 
 ### Upcoming Problems
 
-- [ ] 11 Koko Eating Bananas (LC 875)
-- [ ] 12 Capacity To Ship Packages Within D Days (LC 1011)
-- [ ] 13 Minimum Days to Make m Bouquets (LC 1482)
-- [ ] 14 Split Array Largest Sum (LC 410)
-- [ ] 15 Magnetic Force Between Two Balls (LC 1552)
+- [ ] 16 Find First and Last Position of Element in Sorted Array (LC 34)
+- [ ] 17 Find K Closest Elements (LC 658)
+- [ ] 18 Median of Two Sorted Arrays (LC 4)
+- [ ] 19 Time Based Key-Value Store (LC 981)
+- [ ] 20 Snapshot Array (LC 1146)
 
 **Status:** ⬜ Not Started
