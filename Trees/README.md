@@ -1,23 +1,23 @@
 # Trees DSA Tracker
 
-Progress: **0 / 30 Completed**
+Progress: **5 / 30 Completed**
 
 ---
 
-## Phase 1: Binary Tree Fundamentals (0/10)
+## Phase 1: Binary Tree Fundamentals (5/10)
 
-- [ ] 01 Binary Tree Preorder Traversal (LC 144)
-- [ ] 02 Binary Tree Inorder Traversal (LC 94)
-- [ ] 03 Binary Tree Postorder Traversal (LC 145)
-- [ ] 04 Binary Tree Level Order Traversal (LC 102)
-- [ ] 05 Maximum Depth of Binary Tree (LC 104)
+- [x] 01 Binary Tree Preorder Traversal (LC 144)
+- [x] 02 Binary Tree Inorder Traversal (LC 94)
+- [x] 03 Binary Tree Postorder Traversal (LC 145)
+- [x] 04 Binary Tree Level Order Traversal (LC 102)
+- [x] 05 Maximum Depth of Binary Tree (LC 104)
 - [ ] 06 Same Tree (LC 100)
 - [ ] 07 Symmetric Tree (LC 101)
 - [ ] 08 Invert Binary Tree (LC 226)
 - [ ] 09 Path Sum (LC 112)
 - [ ] 10 Balanced Binary Tree (LC 110)
 
-**Status:** ⬜ Not Started
+**Status:** 🔄 In Progress
 
 ---
 
@@ -65,11 +65,11 @@ Progress: **0 / 30 Completed**
 # Progress Summary
 
 ```text
-Trees Progress: 0 / 30
+Trees Progress: 5 / 30
 
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 0%
+█████░░░░░░░░░░░░░░░░░░░░░░░ 16.7%
 
-Phase 1: ⬜ Not Started
+Phase 1: 🔄 In Progress (5/10)
 Phase 2: ⬜ Not Started
 Phase 3: ⬜ Not Started
 Phase 4: ⬜ Not Started
@@ -77,15 +77,22 @@ Phase 4: ⬜ Not Started
 
 ---
 
-# Patterns to Master
+# Patterns Mastered
 
 ## Binary Tree Fundamentals
 
-- Preorder Traversal
-- Inorder Traversal
-- Postorder Traversal
-- Level Order Traversal
-- Maximum Depth
+- ✅ Preorder Traversal
+- ✅ Inorder Traversal
+- ✅ Postorder Traversal
+- ✅ Level Order Traversal (BFS)
+- ✅ Maximum Depth of Binary Tree
+
+---
+
+# Upcoming Patterns
+
+## Binary Tree Fundamentals
+
 - Same Tree
 - Symmetric Tree
 - Invert Binary Tree
@@ -105,7 +112,7 @@ Phase 4: ⬜ Not Started
 - Construct Binary Trees
 - Right Side View
 - Zigzag Traversal
-- Diameter of Binary Tree
+- Diameter
 - Maximum Path Sum
 - Lowest Common Ancestor
 - Flatten Binary Tree
@@ -115,7 +122,7 @@ Phase 4: ⬜ Not Started
 ## Advanced Tree Problems
 
 - Path Sum II
-- Good Nodes
+- Count Good Nodes
 - House Robber III
 - Binary Tree Cameras
 - Distance K
@@ -166,83 +173,71 @@ Trees/
 
 ---
 
-# Goal
-
-🎯 Master Binary Tree & Binary Search Tree Patterns
-
-- DFS
-- BFS
-- Tree Traversals
-- Binary Search Tree
-- Lowest Common Ancestor
-- Tree Construction
-- Tree Dynamic Programming
-- Serialization
-- Backtracking
-
----
-
 # Achievement
 
-🚀 Trees Roadmap Started
+✅ Solved Binary Tree Preorder Traversal
 
-⬜ Phase 1 - Binary Tree Fundamentals
+✅ Solved Binary Tree Inorder Traversal
 
-⬜ Phase 2 - Binary Search Tree
+✅ Solved Binary Tree Postorder Traversal
 
-⬜ Phase 3 - Tree Construction & Advanced DFS
+✅ Solved Binary Tree Level Order Traversal
 
-⬜ Phase 4 - Advanced Tree Problems
+✅ Solved Maximum Depth of Binary Tree
+
+🚀 Completed **5/30 Tree Problems**
 
 ---
 
-# Key Interview Patterns to Learn
+# Key Interview Patterns Learned
 
-### Tree Traversals
+### DFS Traversals
 
-- Preorder
-- Inorder
-- Postorder
-- Level Order
+- Preorder Traversal
+- Inorder Traversal
+- Postorder Traversal
 
-### DFS & BFS
+### Breadth First Search (BFS)
+
+- Level Order Traversal
+
+### Tree Recursion
 
 - Maximum Depth
-- Path Sum
-- Balanced Tree
-- Right Side View
-
-### Binary Search Tree
-
-- Search
-- Validate
-- Insert
-- Delete
-- Lowest Common Ancestor
-
-### Tree Construction
-
-- Build Tree from Traversals
-- Serialize & Deserialize
-- Flatten Binary Tree
-
-### Tree Dynamic Programming
-
-- Diameter
-- Maximum Path Sum
-- House Robber III
-
-### Advanced Tree Problems
-
-- Binary Tree Cameras
-- Distance K
-- Good Nodes
-- Path Sum II
+- Recursive DFS
+- Divide and Conquer
 
 ---
 
-# Next Problem
+# Current Milestone
 
-➡️ 01 Binary Tree Preorder Traversal (LC 144)
+🎉 Phase 1 Progress: **5/10**
 
-**Status:** ⬜ Not Started
+```text
+Arrays          : 30 / 30 ✅
+Strings         : 30 / 30 ✅
+Linked List     : 30 / 30 ✅
+Stack           : 15 / 15 ✅
+Queue           : 15 / 15 ✅
+HashMap         : 20 / 20 ✅
+Binary Search   : 20 / 20 ✅
+Trees           : 5 / 30 🔄
+
+Total Solved    : 165 Problems 🚀
+```
+
+---
+
+# Next Phase
+
+➡️ Continue **Phase 1: Binary Tree Fundamentals**
+
+### Upcoming Problems
+
+- [ ] 06 Same Tree (LC 100)
+- [ ] 07 Symmetric Tree (LC 101)
+- [ ] 08 Invert Binary Tree (LC 226)
+- [ ] 09 Path Sum (LC 112)
+- [ ] 10 Balanced Binary Tree (LC 110)
+
+**Status:** 🔄 In Progress
